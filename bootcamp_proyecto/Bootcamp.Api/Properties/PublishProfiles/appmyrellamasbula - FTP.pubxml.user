@@ -8,7 +8,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAKWuIh4Yu00CNs30Pu3a99gAAAAACAAAAAAAQZgAAAAEAACAAAABTsr3E1XfUarn9bOvSw97ZX/r/a4sr8BeGy+1aZoSDLwAAAAAOgAAAAAIAACAAAABKAfRYw6m7UQrY/CrPocBnFYx6Xv0cXEaHL126+ahxv4AAAABDRz/l8tj/EIHG+60iHU/2TA/fGf4J+k4tcM9Ack1IJtecVdO238dTxGn+p40tHg3/GBloF3VrTKL3qY8OLWWcEnGif0ZdrYv7znShA0uv6ovT26Q327oFcUEbQnCjuvGfWt8tNLo24b9w9IcN2hJ0Jdh2WwjtDGpwV0tlZkcrakAAAAApdxRrrrljmMiF4FNUKIpWMVVj7E59qfDNsdoo/rejsXgM/9B6L+0SQTFlV3G0mkGrDjBY6TKtizaHtE8fDZw9</EncryptedPassword>
     <_PublishTargetUrl>ftps://waws-prod-bn1-181.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
-    <History>False|2022-10-23T06:00:04.8912511Z;True|2022-10-23T00:53:57.7239728-05:00;False|2022-10-23T00:51:23.8216254-05:00;True|2022-10-23T00:09:34.0444905-05:00;</History>
+    <History>True|2022-10-23T18:25:43.5249985Z;False|2022-10-23T13:21:55.9547455-05:00;False|2022-10-23T13:18:15.3313037-05:00;False|2022-10-23T01:00:04.8912511-05:00;True|2022-10-23T00:53:57.7239728-05:00;False|2022-10-23T00:51:23.8216254-05:00;True|2022-10-23T00:09:34.0444905-05:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -19,22 +19,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/23/2022 00:41:24</publishTime>
     </File>
     <File Include="Bootcamp.Api.deps.json">
-      <publishTime>10/23/2022 00:58:38</publishTime>
+      <publishTime>10/23/2022 13:22:53</publishTime>
     </File>
     <File Include="Bootcamp.Api.dll">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>10/23/2022 13:22:52</publishTime>
     </File>
     <File Include="Bootcamp.Api.exe">
-      <publishTime>10/23/2022 00:58:37</publishTime>
+      <publishTime>10/23/2022 13:22:53</publishTime>
     </File>
     <File Include="Bootcamp.Api.pdb">
-      <publishTime>10/23/2022 00:58:36</publishTime>
+      <publishTime>10/23/2022 13:22:52</publishTime>
     </File>
     <File Include="Bootcamp.Api.runtimeconfig.json">
       <publishTime>10/23/2022 00:06:10</publishTime>
     </File>
     <File Include="Bootcamp.Model.dll">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>10/23/2022 00:05:44</publishTime>
     </File>
     <File Include="Bootcamp.Model.pdb">
       <publishTime>10/23/2022 00:05:44</publishTime>
@@ -52,13 +52,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Bootcamp.ViewModel.dll">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>10/23/2022 00:05:44</publishTime>
     </File>
     <File Include="Bootcamp.ViewModel.pdb">
       <publishTime>10/23/2022 00:05:44</publishTime>
     </File>
     <File Include="Dapper.dll">
-      <publishTime>03/11/2021 09:07:40</publishTime>
+      <publishTime>11/03/2021 09:07:40</publishTime>
     </File>
     <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
       <publishTime>09/26/2022 17:57:02</publishTime>
@@ -70,40 +70,40 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/14/2022 14:54:16</publishTime>
     </File>
     <File Include="Microsoft.Extensions.DependencyInjection.dll">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/26/2022 12:42:22</publishTime>
     </File>
     <File Include="Microsoft.OpenApi.dll">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>08/29/2020 15:14:12</publishTime>
     </File>
     <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
       <publishTime>09/27/2022 18:50:14</publishTime>
     </File>
     <File Include="runtimes/win-arm64/native/sni.dll">
-      <publishTime>12/07/2017 06:24:24</publishTime>
+      <publishTime>07/12/2017 06:24:24</publishTime>
     </File>
     <File Include="runtimes/win-x64/native/sni.dll">
-      <publishTime>12/07/2017 06:24:22</publishTime>
+      <publishTime>07/12/2017 06:24:22</publishTime>
     </File>
     <File Include="runtimes/win-x86/native/sni.dll">
-      <publishTime>12/07/2017 06:24:22</publishTime>
+      <publishTime>07/12/2017 06:24:22</publishTime>
     </File>
     <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
       <publishTime>09/27/2022 18:50:18</publishTime>
     </File>
     <File Include="Swashbuckle.AspNetCore.Swagger.dll">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>10/16/2021 07:54:10</publishTime>
     </File>
     <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>10/16/2021 07:54:36</publishTime>
     </File>
     <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>10/16/2021 07:54:30</publishTime>
     </File>
     <File Include="System.Data.SqlClient.dll">
       <publishTime>09/27/2022 18:40:02</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>10/23/2022 00:58:45</publishTime>
+      <publishTime>10/23/2022 13:22:54</publishTime>
     </File>
   </ItemGroup>
 </Project>
