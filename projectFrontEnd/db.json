@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "nombre": "myre",
+      "precio": "3",
+      "descripcion": "asdad",
+      "categoria": "asdas"
+    },
+    {
+      "id": 3,
+      "nombre": "asdasd",
+      "precio": "4",
+      "descripcion": "asd",
+      "categoria": "ad"
+    },
+    {
+      "id": 4,
+      "nombre": "Norma",
+      "precio": "2",
+      "descripcion": "asd",
+      "categoria": "asd"
+    },
+    {
+      "id": 6,
+      "nombre": "ad",
+      "precio": "2",
+      "descripcion": "asd",
+      "categoria": "ad"
+    },
+    {
+      "id": 7,
+      "nombre": "Myrella",
+      "precio": "2",
+      "descripcion": "sdf",
+      "categoria": "sdf"
+    },
+    {
+      "id": 8,
+      "nombre": "paula",
+      "precio": "45",
+      "descripcion": "sdf",
+      "categoria": "sfs"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
